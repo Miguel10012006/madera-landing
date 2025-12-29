@@ -1,5 +1,5 @@
 const WHATSAPP_LINK =
-  "https://wa.me/573001234567?text=Hola,%20quiero%20cotizar%20un%20trabajo%20en%20madera";
+  "https://wa.me/573053067257?text=Hola,%20quiero%20cotizar%20un%20trabajo%20en%20madera";
 
 export default function Home() {
   return (
